@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-plugin-llamamal-login",
+    "name": "NodeBB Alternate Login",
+    "description": "NodeBB plugin that allow llamamal site users to bypass login",
+    "url": "https://github.com/rahilwazir/nodebb-plugin-llamamal-login",
+    "library": "./index.js"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "nodebb-plugin-llamamal-login",
+    "version": "0.0.1",
+    "description": "NodeBB plugin that allow llamamal site users to bypass login",
+    "private": true,
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rahilwazir/nodebb-plugin-llamamal-login"
+    },
+    "author": {
+        "name": "rahilwazir",
+        "email": "rahilwazir@hotmail.com"
+    },
+    "license": "MIT"
+}
